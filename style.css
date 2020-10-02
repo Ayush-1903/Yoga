@@ -11,12 +11,12 @@ body {
   color: #fff; }
 
 ::selection {
-  background: #000;
+  background: rgb(37, 34, 34);
   color: #fff; }
 
 h1, h2, h3, h4, h5,
 .h1, .h2, .h3, .h4, .h5 {
-  color: #000; }
+  color: rgb(66, 28, 28); }
 
 a {
   -webkit-transition: .3s all ease;
